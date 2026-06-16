@@ -1,0 +1,1 @@
+Developing a robust forecasting model to accurately predict Bitcoin prices based on historical data. By utilizing this model, the company aims to improve trading strategies, manage risk more effectively, and maximize returns on crypto currency investments
